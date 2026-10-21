@@ -1,0 +1,7 @@
+# 运行时产物（每台机器不同，不入库）
+configs/
+logs/
+screenshots/
+debug_tiles/
+__pycache__/
+/dist/

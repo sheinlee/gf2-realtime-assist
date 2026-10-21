@@ -1,0 +1,3 @@
+# 一律 LF；批处理用 CRLF（cmd 读 LF 结尾的 .bat 偶尔会错位）
+* text=auto eol=lf
+*.bat text eol=crlf
